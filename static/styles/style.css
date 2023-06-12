@@ -1,0 +1,54 @@
+
+.list-conteiner>P {
+    text-align: center;
+    font-weight: bold;
+}
+    
+
+.list-conteiner {
+    
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    padding-right: 30px ;
+}
+.main {
+    display: inline-block
+}
+
+    
+.conteiner {
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgb(0, 162, 255);
+}
+.conteiner>img {
+    
+    width: 200px;
+    margin: 10px;
+    margin-top: 10px;
+    }
+h1 {
+    text-align: center;
+   }
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+
+.bold-text {
+    font-weight: bold;
+}
+
+.one {
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgb(0, 162, 255);
+}
