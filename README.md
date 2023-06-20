@@ -1,2 +1,2 @@
 
-sutky24_magadan.github.io
+# sutky24_magadan
