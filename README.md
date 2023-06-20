@@ -1,2 +1,2 @@
 
-# sutky24_magadan
+# putav71.githab.io
