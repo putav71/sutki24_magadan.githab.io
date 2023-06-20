@@ -1,2 +1,2 @@
 
-sutki24_magadan
+sutky24_magadan
